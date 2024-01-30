@@ -10,7 +10,7 @@
 ### 👨‍💻 Sobre mi:
 
 - 👨‍💻 Soy estudiantes de ingeniería en sistemas e informactica 
-- ⚙ Actualmente tengo poco conocimiento de Java, Html, css y Java script 
+- ⚙ Actualmente tengo conocimiento de Java, Html, css, sql y Angular.
 - 📴 Me gusta subir mis proyectos a redes sociales 
 - 📩 Me puedes contactar aqui jonathanjesusroquegonzales@gmail.com
 <!--
