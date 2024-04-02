@@ -43,6 +43,7 @@ Here are some ideas to get you started:
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
 ![Static Badge](https://img.shields.io/badge/Express.js-05122A?style=flat-&logo=express&logoColor=af01b4)
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
@@ -70,4 +71,4 @@ Here are some ideas to get you started:
 <a href="https://www.facebook.com/jonathan.roque"><img src="https://img.shields.io/badge/-@Jonathan Roque-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 
 -----
-Last Edited on: 02/04/2024
+Última edición el: 02/04/2024
