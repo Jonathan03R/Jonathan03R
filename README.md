@@ -1,7 +1,7 @@
 <div id="header" align = "center">
         <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="200" />
             <h1 align = "center">Hola 👋 , Mi nombre es Jonathan Roque</h1>
-            <h3 align = "center"> Soy un estudiante de Ingeniería en Sistemas con una pasión por la programación y un interés creciente en el desarrollo web. Estoy comprometido en aprender y mejorar mis habilidades técnicas para crear soluciones innovadoras. Me encanta compartir y exhibir mis proyectos en las redes sociales, como Instagram y TikTok, para mostrar mi progreso y motivar a otros a adentrarse en el mundo de la programación. Mi objetivo es utilizar mis conocimientos en desarrollo web y mis habilidades de        programación para contribuir al desarrollo de aplicaciones y sitios web funcionales y atractivos </h3>
+            <h3 align = "center">Soy un estudiante de Ingeniería en Sistemas con una ferviente pasión por la programación y un creciente interés en el desarrollo web. Mi compromiso radica en perfeccionar constantemente mis habilidades técnicas para concebir soluciones innovadoras. Disfruto compartir y exponer mis proyectos en plataformas como Instagram y TikTok, con el fin de no solo mostrar mi progreso, sino también de inspirar a otros a sumergirse en el vasto universo de la programación. Mi objetivo es aplicar mis conocimientos en desarrollo web y habilidades de programación para contribuir al desarrollo de aplicaciones y sitios web funcionales y estéticamente atractivos. </h3>
 
 </div>
 
@@ -9,10 +9,11 @@
 
 ### 👨‍💻 Sobre mi:
 
-- 👨‍💻 Soy estudiantes de ingeniería en sistemas e informactica 
-- ⚙ Actualmente tengo conocimiento de Java, Html, css, sql y Angular.
-- 📴 Me gusta subir mis proyectos a redes sociales 
-- 📩 Me puedes contactar aqui jonathanjesusroquegonzales@gmail.com
+- 👨‍💻 Soy estudiante de Ingeniería en Sistemas e Informática.
+- ⚙ Actualmente tengo experiencia en Java, HTML, CSS, JavaScript y trabajo tanto en el frontend como en el backend. Utilizo Node.js y Express para el desarrollo backend, y Git para el control de versiones. Además, estoy familiarizado con el framework Angular, así como con las librerías de diseño como Bootstrap y Tailwind CSS. En cuanto a bases de datos, tengo competencia en MySQL y en la gestión de SQL.
+- 📴 Me gusta compartir mis proyectos en redes sociales.
+- 📱 Puedes contactarme al: +51 980-698-583
+- 📩 También puedes escribirme a: jonathanjesusroquegonzales@gmail.com
 <!--
 **Jonathan03R/Jonathan03R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -29,21 +30,6 @@ Here are some ideas to get you started:
 -->
 
 
-![Aditya Vikram Singh Banner](https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.jpg)
-
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Aditya</h2>
-
-<!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
-
-### 👨🏻‍💻 &nbsp;About Me
-
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying Computer Science and Mathematics at the University of Massachusetts Amherst.\
-🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
-✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at avsingh@umass.edu! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions!
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
