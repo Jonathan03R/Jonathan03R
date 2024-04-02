@@ -63,7 +63,7 @@ Here are some ideas to get you started:
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://portafolio-40843.firebaseapp.com/port"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://portafolio-40843.firebaseapp.com/port"><img src="https://img.shields.io/badge/-portafolio Personal-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/jonathan-roque-b5bb85277/"><img src="https://img.shields.io/badge/-Jonathan Roque-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:jonathanjesusroquegonzales@gmail.com"><img src="https://img.shields.io/badge/-Correo-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/shonaroque/"><img src="https://img.shields.io/badge/-@shonaRoque-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
