@@ -61,7 +61,7 @@ Here are some ideas to get you started:
 </a>
 </p>-->
 
-### 🤝🏻 &nbsp;Connect with Me
+### 🤝🏻 &nbsp;Conectate conmigo
 
 <p align="center">
 <a href="https://portafolio-40843.firebaseapp.com/port"><img src="https://img.shields.io/badge/-portafolio Personal-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
