@@ -36,6 +36,7 @@ Here are some ideas to get you started:
 ### 🛠 &nbsp;Conocimientos Tecnológicos
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![Static Badge](https://img.shields.io/badge/Angular-05122A?style=flat-square&logo=Angular&logoColor=af01b4)
 ![Static Badge](https://img.shields.io/badge/Angular-05122A?style=for-the-badge&logo=Angular&logoColor=af01b4)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
