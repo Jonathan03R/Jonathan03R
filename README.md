@@ -1,3 +1,6 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=22&pause=1000&color=00F758&width=435&lines=Hola%2C+soy+Jonathan+Roque.;%C2%A1Bienvenido+a+mi+perfil+de+Github!)](https://git.io/typing-svg)
+
+
 <div id="header" align = "center">
         <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="200" />
             <h1 align = "center">Hola 👋 , Mi nombre es Jonathan Roque</h1>
