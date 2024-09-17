@@ -60,8 +60,8 @@ Soy estudiante de Ingeniería en Sistemas, apasionado por la programación y el 
 
 ### ⚙️ &nbsp;GitHub Analytics 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jonathan03R&theme=merko&show_icons=true&include_all_commits=true&count_private=true&locale=es)]
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jonathan03R&theme=merko&layout=compact&locale=es)]
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jonathan03R&theme=merko&show_icons=true&include_all_commits=false&count_private=true&locale=es)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jonathan03R&theme=merko&layout=compact&locale=es)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--                                        
