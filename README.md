@@ -1,25 +1,43 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=22&pause=1000&color=00F758&width=435&lines=Hola%2C+soy+Jonathan+Roque.;%C2%A1Bienvenido+a+mi+perfil+de+Github!)](https://git.io/typing-svg)
 
-
+<!--
 <div id="header" align = "center">
-        <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="200" />
-            <h1 align = "center">Hola 👋 , Mi nombre es Jonathan Roque</h1>
-            <h3 align = "center">Soy un estudiante de Ingeniería en Sistemas con una ferviente pasión por la programación y un creciente interés en el desarrollo web. Mi compromiso radica en perfeccionar constantemente mis habilidades técnicas para concebir soluciones innovadoras. Disfruto compartir y exponer mis proyectos en plataformas como Instagram y TikTok, con el fin de no solo mostrar mi progreso, sino también de inspirar a otros a sumergirse en el vasto universo de la programación. Mi objetivo es aplicar mis conocimientos en desarrollo web y habilidades de programación para contribuir al desarrollo de aplicaciones y sitios web funcionales y estéticamente atractivos. </h3>
+Soy estudiante de Ingeniería en Sistemas, apasionado por la programación y el desarrollo web. Comparto mis proyectos en Instagram y TikTok para mostrar mi progreso e inspirar a otros. Mi objetivo es crear aplicaciones y sitios web funcionales y atractivos.
 
 </div>
+-->
+---
+<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" alt="Pixel Art" align="right" width="200">
+
+
+
+### 🙋‍♂️ Sobre mí:
+
+- 👨‍💻 Soy estudiante de Ingeniería en Sistemas e Informática.
+- ⚙️ Atiendo múltiples lenguajes de programación y principios de desarrollo web, que es lo que me apasiona.
+- 🛠️ Manejo frameworks para el desarrollo backend como frontend.
+- 🎨 Manejo librerías de diseño como Bootstrap y Tailwind CSS.
+- 🗄️ Conozco bases de datos tanto relacionales como no relacionales.
+- 📴 Me gusta compartir mis proyectos en redes sociales.
 
 ---
 
-### 👨‍💻 Sobre mi:
-
-- 👨‍💻 Soy estudiante de Ingeniería en Sistemas e Informática.
-- ⚙ Actualmente tengo experiencia en Java, HTML, CSS, JavaScript y trabajo tanto en el frontend como en el backend. Utilizo Node.js y Express para el desarrollo backend, y Git para el control de versiones. Además, estoy familiarizado con el framework Angular, así como con las librerías de diseño como Bootstrap y Tailwind CSS. En cuanto a bases de datos, tengo competencia en MySQL y en la gestión de SQL.
-- 📴 Me gusta compartir mis proyectos en redes sociales.
+### 🤝🏻 &nbsp;Conectate conmigo
 - 📱 Puedes contactarme al: +51 980-698-583
 - 📩 También puedes escribirme a: jonathanjesusroquegonzales@gmail.com
-  
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+---
+
+### 🌐 Mis Redes
+
+<a href="https://jonathan-roque-8768f.firebaseapp.com"><img src="https://img.shields.io/badge/-portafolio Personal-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/jonathan-roque-b5bb85277/"><img src="https://img.shields.io/badge/-Jonathan Roque-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:jonathanjesusroquegonzales@gmail.com"><img src="https://img.shields.io/badge/-Correo-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.instagram.com/shonaroque/"><img src="https://img.shields.io/badge/-@shonaRoque-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.facebook.com/jonathan.roque"><img src="https://img.shields.io/badge/-@Jonathan Roque-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+
+        
+<!-- <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>   -->
 
 ### 🛠 &nbsp;Conocimientos Tecnológicos
 
@@ -49,7 +67,8 @@
 </a>
 </p>
 
-### 🤝🏻 &nbsp;Conectate conmigo
+
+<!--### 🤝🏻 &nbsp;Conectate conmigo
 
 <p align="center">
 <a href="https://jonathan-roque-8768f.firebaseapp.com"><img src="https://img.shields.io/badge/-portafolio Personal-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
@@ -57,6 +76,7 @@
 <a href="mailto:jonathanjesusroquegonzales@gmail.com"><img src="https://img.shields.io/badge/-Correo-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/shonaroque/"><img src="https://img.shields.io/badge/-@shonaRoque-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.facebook.com/jonathan.roque"><img src="https://img.shields.io/badge/-@Jonathan Roque-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+-->
 
 -----
-Última edición el: 02/04/2024
+Última edición el: 16/09/2024
