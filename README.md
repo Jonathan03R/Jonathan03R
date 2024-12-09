@@ -58,11 +58,17 @@ Soy estudiante de Ingeniería en Sistemas, apasionado por la programación y el 
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
+
+
 ### ⚙️ &nbsp;GitHub Analytics 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jonathan03R&theme=merko&show_icons=true&include_all_commits=false&count_private=true&locale=es)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jonathan03R&theme=merko&layout=compact&locale=es)](https://github.com/anuraghazra/github-readme-stats)
 
+---
+
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Jonathan03R&theme=shadow-purple&border_radius=4.9&locale=es&date_format=M%20j%5B%2C%20Y%5D&card_width=500)](https://git.io/streak-stats)
 
 <!--                                        
 <p align="center">
