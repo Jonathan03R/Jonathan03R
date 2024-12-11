@@ -68,7 +68,7 @@ Soy estudiante de Ingeniería en Sistemas, apasionado por la programación y el 
 ---
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Jonathan03R&theme=shadow-purple&border_radius=4.9&locale=es&date_format=M%20j%6B%2C%20Y%5D&card_width=500)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Jonathan03R&theme=shadow-purple&border_radius=4.9&locale=es&date_format=M%20j%8B%2C%20Y%5D&card_width=500)](https://git.io/streak-stats)
 
 <!--                                        
 <p align="center">
