@@ -66,6 +66,7 @@ Soy estudiante de Ingeniería en Sistemas, apasionado por la programación y el 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jonathan03R&theme=merko&layout=compact&locale=es)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
+### ⚙️ &nbsp;GitHub Racha
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Jonathan03R&theme=shadow-purple&hide_border=true&locale=es&short_numbers=true&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CWed&card_width=500&fire=EB7101)](https://git.io/streak-stats)
 
