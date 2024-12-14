@@ -61,25 +61,26 @@ Soy estudiante de Ingeniería en Sistemas, apasionado por la programación y el 
 
 
 ### ⚙️ &nbsp;GitHub Analytics 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jonathan03R&theme=merko&show_icons=true&include_all_commits=false&count_private=true&locale=es)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jonathan03R&theme=merko&layout=compact&locale=es)](https://github.com/anuraghazra/github-readme-stats)
-
-<!--  
-### ⚙️ &nbsp;GitHub Racha
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Jonathan03R&theme=shadow-purple&hide_border=true&locale=es&short_numbers=true&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CWed&card_width=500&fire=EB7101)](https://git.io/streak-stats)
-
-                                      
+                               
 <p align="center">
 <a href="https://github.com/Jonathan03R">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Jonathan03R&show_icons=true&theme=radical&include_all_commits=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Jonathan03R&layout=compact&langs_count=8&theme=radical"/>
 </a>
 </p>
--->
 
 
+ 
+### ⚙️ &nbsp;GitHub Racha
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Jonathan03R&theme=shadow-purple&hide_border=true&locale=es&short_numbers=true&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CWed&card_width=500&fire=EB7101)](https://git.io/streak-stats)
+
+
+
+   <!--     
+![](https://github-readme-stats.vercel.app/api?username=jonathan03R&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=jonathan03R&theme=midnight-purple&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jonathan03R&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 <!--### 🤝🏻 &nbsp;Conectate conmigo
 
 <p align="center">
