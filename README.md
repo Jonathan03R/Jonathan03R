@@ -43,15 +43,11 @@ Soy estudiante de Ingeniería en Sistemas, apasionado por la programación y el 
 
 
 
-### ⚙️ &nbsp;GitHub Analytics 
-                               
-<p align="center">
-<a href="https://github.com/Jonathan03R">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Jonathan03R&show_icons=true&theme=radical&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Jonathan03R&layout=compact&langs_count=8&theme=radical"/>
-</a>
-</p>
 
+### ⚙️ &nbsp;GitHub Analytics 
+
+![](https://github-readme-stats.vercel.app/api?username=jonathan03R&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jonathan03R&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
  
 ### ⚙️ &nbsp;GitHub Racha
@@ -63,7 +59,7 @@ Soy estudiante de Ingeniería en Sistemas, apasionado por la programación y el 
 
 
    <!--     
-![](https://github-readme-stats.vercel.app/api?username=jonathan03R&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jonathan03R&theme=midnight-purple&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jonathan03R&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 <!--### 🤝🏻 &nbsp;Conectate conmigo
