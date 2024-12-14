@@ -46,7 +46,7 @@ Soy estudiante de Ingeniería en Sistemas, apasionado por la programación y el 
 
 ### ⚙️ &nbsp;GitHub Analytics 
 
-![](https://github-readme-stats.vercel.app/api?username=jonathan03R&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=jonathan03R&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jonathan03R&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
  
@@ -73,4 +73,4 @@ Soy estudiante de Ingeniería en Sistemas, apasionado por la programación y el 
 -->
 
 -----
-Última edición el: 16/09/2024
+Última edición el: 13/12/2024
