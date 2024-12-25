@@ -56,9 +56,7 @@ Soy estudiante de Ingeniería en Sistemas, apasionado por la programación y el 
 -->
 
 
-[![GitHub Streak](https://streak-stats.vercel.app?user=&theme=midnight-purple&locale=es&date_format=j%20M%5B%20Y%5D&border=AB02FF&stroke=660198&fire=DD9945&sideNums=E5E5E5)](https://jonathan-roque-8768f.web.app)
-
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=Jonathan03R&theme=shadow-purple&border_radius=11.7&locale=es&date_format=j%20M%5B%20Y%5D&card_width=550&card_height=200&border=A147CB&fire=EBAD18&sideNums=E2E2E2&dates=EBEBEB)](https://jonathan-roque-8768f.web.app)
 
 <p><a href="https://github.com/Jonathan03R"><img src="https://github-profile-trophy.vercel.app/?username=Jonathan03R&theme=dracula" alt="Jonathan03R" /></a></p>
 
