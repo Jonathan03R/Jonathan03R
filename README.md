@@ -52,7 +52,12 @@ Soy estudiante de Ingeniería en Sistemas, apasionado por la programación y el 
  
 ### ⚙️ &nbsp;GitHub Racha
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Jonathan03R&theme=shadow-purple&border_radius=4.7&locale=es&date_format=j%20M%5B%20Y%5D&exclude_days=Thu&excludeDaysLabel=000000&fire=EBAA11&sideNums=EBEBEB&dates=EBEBEB&currStreakNum=AB02FF&currStreakLabel=AB02FF&sideLabels=AB02FF&border=AB02FF&ring=AB02FF)](https://jonathan-roque-8768f.web.app)
+<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=Jonathan03R&theme=shadow-purple&border_radius=4.7&locale=es&date_format=j%20M%5B%20Y%5D&exclude_days=Thu&excludeDaysLabel=000000&fire=EBAA11&sideNums=EBEBEB&dates=EBEBEB&currStreakNum=AB02FF&currStreakLabel=AB02FF&sideLabels=AB02FF&border=AB02FF&ring=AB02FF)](https://jonathan-roque-8768f.web.app)
+-->
+
+
+[![GitHub Streak](https://streak-stats.vercel.app?user=&theme=midnight-purple&locale=es&date_format=j%20M%5B%20Y%5D&border=AB02FF&stroke=660198&fire=DD9945&sideNums=E5E5E5)](https://jonathan-roque-8768f.web.app)
+
 
 
 <p><a href="https://github.com/Jonathan03R"><img src="https://github-profile-trophy.vercel.app/?username=Jonathan03R&theme=dracula" alt="Jonathan03R" /></a></p>
