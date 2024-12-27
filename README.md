@@ -76,4 +76,4 @@ Soy estudiante de Ingeniería en Sistemas, apasionado por la programación y el 
 -->
 
 -----
-Última edición el: 13/12/2024
+Última edición el: 26/12/2024
