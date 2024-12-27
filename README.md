@@ -73,7 +73,9 @@ Soy estudiante de Ingeniería en Sistemas, apasionado por la programación y el 
 <a href="mailto:jonathanjesusroquegonzales@gmail.com"><img src="https://img.shields.io/badge/-Correo-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/shonaroque/"><img src="https://img.shields.io/badge/-@shonaRoque-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.facebook.com/jonathan.roque"><img src="https://img.shields.io/badge/-@Jonathan Roque-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
--->
+
 
 -----
 Última edición el: 26/12/2024
+
+-->
