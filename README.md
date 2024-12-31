@@ -75,7 +75,7 @@ Soy estudiante de Ingeniería en Sistemas, apasionado por la programación y el 
 <a href="https://www.facebook.com/jonathan.roque"><img src="https://img.shields.io/badge/-@Jonathan Roque-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 
 
------
+
 Última edición el: 26/12/2024
 
--->
+
